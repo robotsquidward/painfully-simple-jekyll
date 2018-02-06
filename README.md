@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Hello World!
 
 You can use the [editor on GitHub](https://github.com/robotsquidward/painfully-simple-jekyll/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
