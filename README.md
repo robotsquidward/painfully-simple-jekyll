@@ -1,10 +1,11 @@
-# Here's My Second Post!
+# *Painfully* Simple Jekyll
 
-Making posts in this theme is just structuring your markdown.
+Making a simple website today is so easy with [GitHub Pages](https://pages.github.com) and [Jekyll](https://jekyllrb.com).
 
-# Hello World!
+This website is a sample project for building out a Jekyll site and theme.
 
-Wow!  Making a [Jekyll](https://jekyllrb.com) blog is as easy as can be!  This theme couldn't be more minimal.
+## Current Posts
 
-All you have to do is add [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to your readme and it becomes a post!  Format it however you want.
+### [How to Build A Pages Site In Less Than 10 Minutes](http://ajkuterman.com/2018-02-06/painfully-simple-jekyll/)
 
+The jumpstart guide for building your first site on GitHub.
