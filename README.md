@@ -9,3 +9,7 @@ This website is a sample project for building out a Jekyll site and theme.
 ### [How to Build A Pages Site In Less Than 10 Minutes](https://ajkueterman.com/2018-02-06/painfully-simple-jekyll/)
 
 The jumpstart guide for building your first site on GitHub.
+
+## New Page
+
+[Here's the link!](new-page.md)
