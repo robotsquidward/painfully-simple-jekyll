@@ -10,3 +10,6 @@ This website is a sample project for building out a Jekyll site and theme.
 
 The jumpstart guide for building your first site on GitHub.
 
+## New Post
+
+[new post link](new-post.md)
